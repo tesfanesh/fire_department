@@ -1,0 +1,34 @@
+ReportName,Category,Type,Year,Value
+PHXCallVolume,CriticalEMS,Null,2016,99671
+PHXCallVolume,CriticalEMS,Null,2017,100192
+PHXCallVolume,CriticalEMS,Null,2018,98437
+PHXCallVolume,Fire,Null,2016,19577
+PHXCallVolume,Fire,Null,2017,20069
+PHXCallVolume,Fire,Null,2018,20586
+PHXCallVolume,NonCriticalEMS,Null,2016,81857
+PHXCallVolume,NonCriticalEMS,Null,2017,84027
+PHXCallVolume,NonCriticalEMS,Null,2018,85250
+PHXCallVolume,Other,Null,2016,7625
+PHXCallVolume,Other,Null,2017,7479
+PHXCallVolume,Other,Null,2018,7737
+PHXCallVolume,Total Calls,Null,2016,208730
+PHXCallVolume,Total Calls,Null,2017,211767
+PHXCallVolume,Total Calls,Null,2018,212010
+PFD CallVolume,Null,Null,2016,215089
+PFD CallVolume,Null,Null,2017,218367
+PFD CallVolume,Null,Null,2018,218882
+PFD Unit CallVolume,Null,Null,2016,363778
+PFD Unit CallVolume,Null,Null,2017,363212
+PFD Unit CallVolume,Null,Null,2018,366531
+PFD ResponseTime,(90)Percentile CriticalEMS,Engines,2016,415
+PFD ResponseTime,(90)Percentile CriticalEMS,Engines,2017,417
+PFD ResponseTime,(90)Percentile CriticalEMS,Engines,2018,419
+PFD ResponseTime,(90)Percentile CriticalEMS,Ladders/LTs,2016,345
+PFD ResponseTime,(90)Percentile CriticalEMS,Ladders/LTs,2017,346
+PFD ResponseTime,(90)Percentile CriticalEMS,Ladders/LTs,2018,350
+PFD ResponseTime,(90)Percentile CriticalEMS,Rescues,2016,382
+PFD ResponseTime,(90)Percentile CriticalEMS,Rescues,2017,385
+PFD ResponseTime,(90)Percentile CriticalEMS,Rescues,2018,383
+PFD ResponseTime,(90)Percentile CriticalEMS,Squads,2016,413
+PFD ResponseTime,(90)Percentile CriticalEMS,Squads,2017,404
+PFD ResponseTime,(90)Percentile CriticalEMS,Squads,2018,408
